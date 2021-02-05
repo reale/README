@@ -13,3 +13,9 @@ As the proud founder of <a href="https://eutopian.eu" target="_blank">Eutopian</
 Currently based in Rome, Italy, and Brussels, Belgium.
 
 ![Roberto Reale](roberto-reale.jpg)
+
+## Contacts
+
+Feel free to drop me a line at [roberto@reale.me](mailto:roberto@reale.me) or on [Twitter](https://twitter.com/Reale_EU).
+
+Should you need to send me encrypted stuff, my PGP public key is [here](https://keyring.reale.me/reale-pgp.txt).
