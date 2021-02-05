@@ -11,3 +11,5 @@ I am a member of standardisation bodies at the national and EU level and of seve
 As the proud founder of <a href="https://eutopian.eu" target="_blank">Eutopian</a>, a think tank focused on digital citizenship, I believe in technology as an enabler for democracy.
 
 Currently based in Rome, Italy, and Brussels, Belgium.
+
+![Roberto Reale](roberto-reale.jpg)
