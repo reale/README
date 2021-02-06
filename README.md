@@ -14,6 +14,10 @@ Currently based in Rome, Italy, and Brussels, Belgium.
 
 ![Roberto Reale](roberto-reale.jpg)
 
+## Why a GitHub Account
+
+For anybody believing in collaborative and open models, GitHub is *the* place to be.
+
 ## Contacts
 
 Feel free to drop me a line at [roberto@reale.me](mailto:roberto@reale.me) or on [Twitter](https://twitter.com/Reale_EU).
