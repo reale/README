@@ -1,6 +1,6 @@
 # Me in a Nutshell
 
-I am an Innovation Manager with an international experience in e-government projects and digital transformation of the public sector both at the EU and at the national level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities) as well as 20 years of experience in ICT engineering and management, business and financial planning, strategic development in diverse and multistakeholder environments.
+I am an Innovation Manager, a Policy Advisor and a Computer Scientist with an international experience in e-government projects and digital transformation of the public sector both at the EU and at the national level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities) as well as 20 years of experience in ICT engineering and management, business and financial planning, strategic development in diverse and multistakeholder environments.
 
 Indeed, as I view large-scale projects as the complex interplay of many different areas, I seek constant involvement in all facets of the digital transformation: technology, financing, organization, security, communication, governance, policymaking, society, environment.
 
