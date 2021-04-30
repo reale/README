@@ -20,6 +20,6 @@ For anybody believing in collaborative and open models, GitHub is *the* place to
 
 ## Contacts
 
-Feel free to drop me a line at [roberto@reale.me](mailto:roberto@reale.me) or on [Twitter](https://twitter.com/Reale_EU).
+Feel free to drop me a line at [roberto@reale.info](mailto:roberto@reale.info) or on [Twitter](https://twitter.com/Reale_EU).
 
-Should you need to send me encrypted stuff, my PGP public key is [here](https://keyring.reale.me/reale-pgp.txt).
+Should you need to send me encrypted stuff, my PGP public key is [here](https://keyring.reale.info/reale-pgp.txt).
